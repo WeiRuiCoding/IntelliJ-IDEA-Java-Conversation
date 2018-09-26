@@ -90,6 +90,8 @@
 	- Github：<https://github.com/cjuexuan>
 - （J）**景b**
 	- Blog：<http://jingb.info/>
+- （J）**Jet Ma**
+	- Blog：<https://www.javatang.com/>
 - （K）**kerr**
 	- Github：<https://github.com/hepin1989>
 - （K）**KL**
