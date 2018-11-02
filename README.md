@@ -102,7 +102,7 @@
 - （L）**Lindp**
 	- Github：<https://github.com/Lindp>
 - （L）**冷冷**
-	- Github：<https://gitee.com/log4j/pig>
+	- Gitee：<https://gitee.com/log4j/pig>
 	- Blog：<https://my.oschina.net/giegie>
 - （M）**漠然**
 	- Blog：<http://mazhuang.org/>
