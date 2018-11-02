@@ -170,7 +170,7 @@
 	- Github：<http://github.com/eacdy>
 - （Y）**YouMeek**
 	- Blog：<http://YouMeek.com>
-	- Love：<http://GitNavi.com>
+	- Love：<http://GitNavi.com/u/judasn>
 	- Github：<https://github.com/judasn>
 - （Y）**一书生**
 	- Blog：<https://lw900925.github.io/>
