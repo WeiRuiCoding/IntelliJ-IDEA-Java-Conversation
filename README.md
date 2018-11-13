@@ -132,6 +132,8 @@
 	- Blog：<https://qiancheng.me/>
 - （R）**RememBerBer**
 	- Github：<https://github.com/rememberber>
+- （R）**rxliuli**
+	- Blog：<https://blog.rxliuli.com/>
 - （S）**石頭剪刀b**
 	- Blog：<http://blog.caidingke.net/>
 	- Github：<https://github.com/challengeof>
