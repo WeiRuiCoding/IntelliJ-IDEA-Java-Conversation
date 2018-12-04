@@ -152,6 +152,9 @@
 	- Github：<https://github.com/JeffLi1993>
 - （W）**悟空**
 	- Blog：<http://blog.csdn.net/u010475041>
+- （W）**污熊**
+	- Blog：<https://www.xncoding.com/>
+	- Github：<https://github.com/yidao620c>
 - （X）**小柒**
 	- Blog：<https://blog.52itstyle.com>
 - （X）**笑忘书人**
