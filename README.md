@@ -97,6 +97,9 @@
 - （K）**KL**
 	- Blog：<http://www.kailing.pub>
 	- Gitee：<https://gitee.com/kailing>
+- （K）**Ken**
+	- Blog：<https://ken.io/>
+	- Github：<https://github.com/ken-io>
 - （L）**William Leung**
 	- Github：<https://github.com/lwr>
 - （L）**Lindp**
