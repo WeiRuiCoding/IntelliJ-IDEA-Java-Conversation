@@ -77,6 +77,8 @@
 	- Github：<https://github.com/tengj>
 - （D）**Doug Li丶**
     - Github：<https://github.com/GourdErwa>
+- （D）**Ein Verne**
+    - Github：<http://einverne.github.io>
 - （G）**过往记忆**
 	- Blog：<https://www.iteblog.com/>
 - （H）**豪情**
