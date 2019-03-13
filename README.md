@@ -1,7 +1,12 @@
-# 群号：543286528 的公告
+## 团队 DevOps 方案参考
+
+<a target="_blank" href="https://e.coding.net/?utm_source=judasn">
+<img id="judasn" src="https://upload-images.jianshu.io/upload_images/12159-e3279861ff8655c9.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240">
+</a>
 
 ## 限制进群的理由
 
+- 群号：543286528 的公告
 - **我们在乎的是那些愿意在平时给别人帮助的人，因为我们相信他也会在关键时候帮助我们彼此，仅此而已。**
 
 ## 群奢望目标
