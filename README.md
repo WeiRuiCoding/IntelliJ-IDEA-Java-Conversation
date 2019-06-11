@@ -90,6 +90,8 @@
 	- Github：<https://github.com/jsfront>
 - （H）**herohuang**
 	- Blog：<http://herohuang.com>
+- （H）**happyJared**
+	- Blog：<https://blog.mariojd.cn/>
 - （I）**I am Lsz**
 	- Blog：<http://blog.csdn.net/imlsz>
 - （J）**几笔成書**
