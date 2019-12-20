@@ -103,6 +103,8 @@
 	- Blog：<http://jingb.info/>
 - （J）**Jet Ma**
 	- Blog：<https://www.javatang.com/>
+- （J）**JRebel**
+	- Blog：<https://www.zhihu.com/people/sa-da-sheng-di-10/activities>
 - （K）**kerr**
 	- Github：<https://github.com/hepin1989>
 - （K）**KL**
